@@ -1,6 +1,6 @@
 {
   "name": "vue-page-visibility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A vue plugin. It's helpful if you need do something when your page hidding to background.",
   "main": "./dist/vue-page-visibility.js",
   "scripts": {
